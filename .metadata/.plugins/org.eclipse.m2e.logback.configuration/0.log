@@ -19,3 +19,4 @@
 2019-03-28 22:11:49,833 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-28 22:11:49,842 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shivam\Desktop\Ashik\prac\src\main\resources
 2019-03-28 22:11:49,845 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 22:11:49,845 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Shivam\Desktop\Ashik\prac\src\test\resources
