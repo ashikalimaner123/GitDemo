@@ -6,5 +6,10 @@ public class Trial {
 		System.out.println("welcome");
 
 	}
+	
+	public void print()
+	{
+		System.out.println("hello");
+	}
 
 }
