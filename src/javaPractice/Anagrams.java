@@ -5,7 +5,7 @@ public class Anagrams {
 	static int count1;
 	public static void main(String[] args) {
 		
-		String arr = "silent";
+		String arr = "silen";
 		String brr = "listee";
 
 		char[] arr1 = arr.toCharArray();
